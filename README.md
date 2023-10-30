@@ -32,4 +32,4 @@ publish_image()
 ### Important Notes
 
 * Make sure you have the necessary permissions to post on Instagram using the Graph API.
-* This script uses version 18.0 of the Facebook Graph API. Ensure compatibility with future versions if necessary.
+* This script uses version 18.0 of the Facebook Graph API. Ensure compatibility with future versions if necessary..
